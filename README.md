@@ -20,7 +20,7 @@ Full-stack developer and RPA engineer, currently a pre-final year B.E. Computer 
 **[Smart Resume Tailor — Bot](https://github.com/MridhulaDevi/RESUME-TAILOR-BOT-using-UiPath-)**
 A UiPath RPA workflow that extracts skills from a job description using regex and tailors a resume to match, automating Excel, Word, PDF and email processing end to end.
 
-**Parkify — Smart Parking Booking System**
+**[Parkify — Smart Parking Booking System](https://github.com/MridhulaDevi/DESIGN-THINKING---Parkify)**
 A parking management system with role-based Admin, Owner and User modules, handling location, slot booking, and dynamic pricing with real-time availability.
 
 ---
